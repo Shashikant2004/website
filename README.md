@@ -7,7 +7,7 @@ Welcome!
 About
 -----
 
-This repo contains the code for the [NYCCamp.org](http://nyccamp.org) website.
+This repo contains the code for the [NYCCamp.org](http://nyccamp.org) website.This is awesome website ,you can feel nice it after using this website.
 
 The source code is hosted on [GitHub](http://github.com/NYC-Camp/website).
 
